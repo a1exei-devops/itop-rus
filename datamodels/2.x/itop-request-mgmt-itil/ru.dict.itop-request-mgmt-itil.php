@@ -157,7 +157,7 @@ Dict::Add('RU RU', 'Russian', 'Русский', array(
 	'Class:UserRequest/Attribute:ttr' => 'TTR',
 	'Class:UserRequest/Attribute:ttr+' => '',
 	'Class:UserRequest/Attribute:tto_escalation_deadline' => 'Срок TTO',
-	'Class:UserRequest/Attribute:tto_escalation_deadline+' => 'Крайний срок назаначения агента (принятия в работу) по текущему SLA',
+	'Class:UserRequest/Attribute:tto_escalation_deadline+' => 'Крайний срок назначения агента (принятия в работу) по текущему SLA',
 	'Class:UserRequest/Attribute:sla_tto_passed' => 'SLA TTO пропущено',
 	'Class:UserRequest/Attribute:sla_tto_passed+' => '',
 	'Class:UserRequest/Attribute:sla_tto_over' => 'SLA TTO превышено',

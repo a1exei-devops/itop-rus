@@ -1002,7 +1002,7 @@ Dict::Add('RU RU', 'Russian', 'Русский', array(
     'UI:RelationTooltip:CriticalThreshold_N_of_M' => 'Критический порог: %1$d / %2$d',
 
     'Portal:Title' => 'Пользовательский портал iTop',
-    'Portal:NoRequestMgmt' => 'Уважаемый %1$s, вы были перенаправлены на потрал, потому что ваш аккаунт содержит профиль \'Portal user\'. К сожалению, iTop не содержит модуля \'Request Management\'. Пожалуйста, свяжитесь с вашим администратором.',
+    'Portal:NoRequestMgmt' => 'Уважаемый %1$s, вы были перенаправлены на портал, потому что ваш аккаунт содержит профиль \'Portal user\'. К сожалению, iTop не содержит модуля \'Request Management\'. Пожалуйста, свяжитесь с вашим администратором.',
     'Portal:Refresh' => 'Обновить',
     'Portal:Back' => 'Назад',
     'Portal:WelcomeUserOrg' => 'Добро пожаловать, %1$s (%2$s)',
